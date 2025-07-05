@@ -21,6 +21,11 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+## GOODBOYS
+
+REST API ใช้ NestJS เชื่อม PostgreSQL ด้วย TypeORM  
+ทำ CRUD สำหรับ resource ชื่อ `City`
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
